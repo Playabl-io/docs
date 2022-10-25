@@ -3,11 +3,13 @@
  */
 const config = {
   title: "Playabl Docs",
-  description: "Get started build a community or playing in games",
+  description: "Get started building a community or playing in games",
+  lastUpdated: true,
   themeConfig: {
     sidebar: [
       {
         text: "Playabl for Communities",
+        collapsible: true,
         items: [
           {
             text: "Getting Started",
@@ -16,6 +18,14 @@ const config = {
           {
             text: "Access Levels",
             link: "/communities/access-levels.md",
+          },
+          {
+            text: "Calendar Cutoff",
+            link: "/communities/calendar-cutoff.md",
+          },
+          {
+            text: "Invite Links",
+            link: "/communities/invite-links.md",
           },
         ],
       },
