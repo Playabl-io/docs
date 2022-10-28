@@ -16,6 +16,10 @@ const config = {
             link: "/communities/getting-started.md",
           },
           {
+            text: "Managing Members",
+            link: "/communities/managing-members.md",
+          },
+          {
             text: "Access Levels",
             link: "/communities/access-levels.md",
           },

@@ -16,4 +16,4 @@ Your community calendar is a public page that displays upcoming games and offers
 
 ### Manage
 
-The Manage page is limited to community admins and is the area for updating and configuring the community. From here, you can change various community settings and perform managements tasks such as assigning member roles and access.
+Manage contains several pages that are limited to community admins and can be used to update and configure the community. From here, you can change various community settings and perform management tasks such as assigning member roles and access, update the furthest posting date, configure integrations, and others.
