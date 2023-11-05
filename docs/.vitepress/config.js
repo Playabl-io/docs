@@ -23,6 +23,10 @@ const config = {
             link: "/guides/games/creating-games.md",
           },
           {
+            text: "Changing your user information and settings",
+            link: "/guides/user-settings.md",
+          },
+          {
             text: "Starting a community",
             link: "/guides/communities/starting-a-community.md",
           },
