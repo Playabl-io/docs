@@ -8,32 +8,46 @@ const config = {
   themeConfig: {
     sidebar: [
       {
-        text: "Playabl for Communities",
-        collapsible: true,
+        text: "Guides",
         items: [
           {
-            text: "Getting Started",
-            link: "/communities/getting-started.md",
+            text: "Finding and joining communities",
+            link: "/guides/communities/finding-communities.md",
           },
           {
-            text: "Managing Members",
-            link: "/communities/managing-members.md",
+            text: "Finding and joining games",
+            link: "/guides/games/finding-games.md",
+          },
+          {
+            text: "Creating games",
+            link: "/guides/games/creating-games.md",
+          },
+          {
+            text: "Starting a community",
+            link: "/guides/communities/starting-a-community.md",
           },
           {
             text: "Access Levels",
-            link: "/communities/access-levels.md",
+            link: "/guides/communities/access-levels.md",
           },
           {
             text: "Calendar Cutoff",
-            link: "/communities/calendar-cutoff.md",
+            link: "/guides/communities/calendar-cutoff.md",
           },
           {
             text: "Invite Links",
-            link: "/communities/invite-links.md",
+            link: "/guides/communities/invite-links.md",
+          },
+          {
+            text: "Managing Members",
+            link: "/guides/communities/managing-members.md",
+          },
+          {
+            text: "Running a community event",
+            link: "/guides/events/running-events.md",
           },
         ],
       },
-      { text: "Playabl for Players", items: [] },
     ],
   },
 };
